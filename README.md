@@ -185,6 +185,7 @@ venv\Scripts\activate  # Windows
 
 # Manually install packages as per project
 pip install -r requirements.txt  # (If you create one)
+```
 
 ## License
 
@@ -220,4 +221,4 @@ contributions:
   - Create a new branch.
   - Commit your changes.
   - Push your branch.
-  - Create a pull request.
+  - Create a pull request.```
